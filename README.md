@@ -1,5 +1,4 @@
 ### Hello World! Ling here 👋
-#### Be a lifelong learner!
 -----------------------------------------------
 
 - 🌱 I’m currently learning React Native and Node.
@@ -14,3 +13,6 @@
 <img src="https://user-images.githubusercontent.com/76840950/110436089-c1631500-80ee-11eb-8da9-94132e2a296d.png" alt="react" width="30"/>
 <img src="https://user-images.githubusercontent.com/76840950/110436752-8e6d5100-80ef-11eb-8c9c-000cd8213719.png" alt="redux" width="30"/>
 </div>
+
+-----------------------------------------------
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ling-cy)](https://github.com/anuraghazra/github-readme-stats)

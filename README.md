@@ -1,7 +1,6 @@
 ### Hello World! Ling here 👋
 -----------------------------------------------
 
-- 🌱 I’m currently learning React Native and Node.
 - 📫 How to reach me: [By email](mailto:lincy.work@gmail.com) / [Linkedin](https://www.linkedin.com/in/cheuk-yin-ling-0b2318148/)
 
 #### Lanuage and Tools:
